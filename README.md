@@ -13,7 +13,7 @@ This Node.js script enables batch transactions on the Ethereum network, supporti
 
 Clone the repository and install dependencies:
 
-git clone [repository-url]
+git clone milshop/EVM-Multi-Wallet-Scriber-Script
 cd [repository-directory]
 npm install
 
